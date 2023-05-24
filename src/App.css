@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#square {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(218, 14, 130);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10vw;
+}
